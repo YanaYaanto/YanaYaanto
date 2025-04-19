@@ -179,16 +179,16 @@
 ## ✨ Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/makavael">
+  <a href="https://www.linkedin.com/in/Pegasusveli">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/webveli">
+  <a href="https://github.com/Pegasusveli">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/webveli">
+  <a href="https://www.facebook.com/Pegasusveli">
     <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
-  <a href="https://buymeacoffee.com/makavael">
+  <a href="https://buymeacoffee.com/Pegasusveli">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" />
   </a>
 </div>
