@@ -109,8 +109,8 @@
 # Ahmed Samir Mahmoud 🌌
 
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pegasusveli) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/pegasusveli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YanaYaanto) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/YanaYaanto)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/NileTech.Institute)
 
 👨‍💻 **Full Stack Developer | Cybersecurity Expert | Network Specialist**
