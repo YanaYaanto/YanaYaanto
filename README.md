@@ -111,7 +111,7 @@
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pegasusveli) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/pegasusveli)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/Pegasusveli)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/NileTech.Institute)
 
 👨‍💻 **Full Stack Developer | Cybersecurity Expert | Network Specialist**
 
@@ -125,7 +125,7 @@
 ---
 
 ## 🚀 Career Timeline
-- **2023**: Joined as a **Cybersecurity Analyst** at [Company Name].
+- **2023**: Joined as a **Cybersecurity Analyst** at].
 - **2021**: Started contributing to **Open Source Projects**.
 - **2020**: Developed multiple **Full Stack applications** for clients.
 - **2018**: Obtained a **certification in Network Administration**.
