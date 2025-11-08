@@ -106,7 +106,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
 </div>
 
-# Ahmed Samir Mahmoud 🌌
+# YANA YANTO 🌌
 
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YanaYaanto) 
@@ -118,7 +118,7 @@
 ---
 
 ## 🌟 About Me
-- **📍 Location**: Hurghada, Egypt 🇪🇬
+- **📍 Location**: NO WHERELAND 🚫
 - **📞 Contact**: +20 1029107547 | [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
 - **📝 Professional Summary**: Over 13 years of experience in full stack development, network administration, and cybersecurity.
 
